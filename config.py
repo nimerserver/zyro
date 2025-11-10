@@ -1,0 +1,6 @@
+from pathlib import Path
+
+DISCORD_TOKEN = "MTQyNzc4MzI4MDU1NTcyMDc3NA.GRyklc.LBsSFtoTj-e8jvqjh_CMiIAsAn6LKeRQXBAUYE"
+GROQ_API_KEY = "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"
+JEYY_API_KEY = "74S3IE9M70QJ0D9P6KQ3EE9H6GQJ8.F9SN4RP0C9NN8.yz8dcOWveIYjaaA06usDdw"
+HISTORY_FILE = Path("history.json")
